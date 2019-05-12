@@ -1,0 +1,112 @@
+body {
+    background: black;
+}
+
+h1 {
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 400%;
+  
+}
+h3 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 175%;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.header {
+    padding: 5%;
+    text-align: center;
+    background: white;
+    color: black;
+    font-size: 100%;
+  }
+
+  .container {
+      display: inline-block;
+      font-family: 'Amatic SC', cursive;
+      width: 50%;
+      color: white;
+      font-size: 150%;
+      text-align: center;
+      position: relative;
+      padding-left: 25%;
+      margin-left: auto;
+      margin-right: auto;
+      padding-bottom: 7%;
+  }
+  p {
+    margin: auto;
+  }
+
+  .button {
+    display: inline-block;
+    width: 10%;
+    height: 10%;
+    background: #fc71b4;
+    padding: .5%;
+    text-align: center;
+    border-radius: 15%;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Amatic SC', cursive;
+    font-size: 120%;
+  }
+  #color2 {
+    background:#f5a62c;
+    color: white;
+  }
+  #color3 {
+    background:#f9e645;
+    color: white;
+  }
+  #color4 {
+    background: #51f843;
+    color: white;
+  }
+  #color5 {
+    background: #4dd7f9;
+    color: white;
+  }
+  /* #color6 {
+    background: #a75cfb;
+    color: white;
+  } */
+  .photo {
+    text-align: center; 
+    width: 48%;
+    float: left;
+    padding-right: 3%;
+    border-radius: 15%; 
+  }
+  .fa-instagram {
+    background: black;
+    color: white;
+  }
+  .instagram {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    padding-bottom: 8%;
+    font-size: 200%;
+    color: white;
+
+  }
+   .color7 {
+    color: white;
+    
+  }
+@media screen and (max-width:959px){
+  html {
+    width: 100%;
+  }
+  .button {
+    display: block;
+    width: 50%;
+    position: relative;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0%;
+
+  }
+}

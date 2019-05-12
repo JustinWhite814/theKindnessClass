@@ -1,0 +1,159 @@
+body {
+  background: black;
+  margin: 0;
+}
+span {
+  font-size: 200%;
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 10%;
+}
+p {
+  font-family: 'Amatic SC', cursive;
+  color: white;
+  margin-left: 21%;
+  margin-right: auto;
+  width: 60%;
+  font-size: 150%;
+  padding-bottom: 10%;
+}
+header {
+  
+  padding-bottom: 5%;
+  background:white; 
+  height: 100%; 
+  line-height:250%;
+  text-align: center;
+  background: white;
+  color: black;
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+ 
+    
+}
+.hamburger
+{
+  background:none;
+  position:absolute;
+  top:0;
+  right:0;
+  line-height:45px;
+  padding:0px 15px 0px 15px;
+  color:#999;
+  border:0;
+  font-size:1.4em;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+  z-index:10000000000000;
+}
+.cross
+{
+  background:none;
+  position:absolute;
+  top:0px;
+  right:0;
+  padding:7px 15px 0px 15px;
+  color:#999;
+  border:0;
+  font-size:3em;
+  line-height:65px;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+  z-index:10000000000000;
+}
+.menu
+{
+  z-index:1000000; 
+  font-weight:bold; 
+  /* width:98.75%;  */
+  width: 100%;
+  background:white; 
+  position:absolute; 
+  text-align:center; 
+  font-size: 35px;
+  font-family: 'Amatic SC', cursive;
+  
+  
+}
+.menu ul 
+{
+  margin: 0; 
+  padding: 0; 
+  list-style-type: none; 
+  list-style-image: none;
+}
+.menu li 
+{
+  display: block;   
+  padding:15px 0 15px 0; 
+  border-bottom: black 1px solid;
+  color: black;
+  font-size: 50%;
+ 
+}
+.menu li:hover
+{
+  display: block; 
+  background:#51f843; 
+  padding:15px 0 15px 0; 
+  
+}
+.menu ul li a 
+{ 
+  text-decoration:none;  
+  margin: 0px; 
+  color: white;
+}
+.menu ul li a:hover 
+{  
+  color: #51f843; 
+  text-decoration:none;
+}
+.menu a
+{
+  text-decoration:none; 
+  color: white;
+}
+.menu a:hover
+{
+  text-decoration:none; 
+  color: #f5f5f5;
+}
+
+.glyphicon-home{
+  color:white; 
+  font-size:1.5em; 
+  margin-top:5px; 
+  margin:0 auto;
+}
+/* header
+{
+  display:inline-block; 
+  font-size:12px;
+} */
+
+a
+{
+  color: white;
+}
+img.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  padding-bottom: 10%;
+  width: 80%;
+
+ 
+}
+@media screen and (max-width:959px){
+  html {
+    width: 100%;
+  }
+  img {
+    
+    width: 80%;
+  }
+}
