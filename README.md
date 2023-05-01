@@ -1,6 +1,6 @@
 # theKindnessClass
 
-https://salty-thicket-36041.herokuapp.com/
+
 
 ## Description
 
