@@ -1,6 +1,6 @@
 # theKindnessClass
 
-
+<img src='./public/images/TeacherBG.jpeg' width='100%'>
 
 ## Description
 
@@ -22,13 +22,13 @@
 
 ## Screen shots
 #### Landing
-![Landing](./images/)
+![Landing](./public/images/HomepageSS.png)
 
 #### Unit
-![Unit](./images/)
+![Unit](./public/images/SubjectSS.png)
 
 #### Dojo
-![Dojo](./images/T)
+![Dojo](./public/images/DojoSS.png)
 
 ## Minimun Viable Product
 
