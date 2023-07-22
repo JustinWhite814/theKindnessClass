@@ -1,6 +1,6 @@
 # theKindnessClass
 
-<img src='./public/images/TeacherBG.jpeg' width='100%'>
+<img src='./public/images/Teacherbackground.jpeg' width='100%'>
 
 ## Description
 
