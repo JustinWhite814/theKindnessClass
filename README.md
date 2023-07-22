@@ -28,13 +28,6 @@
 * HTML
 * CSS
 
-# Todo-List
-
-<img src='./images/todobackground.jpeg' width='100%'>
-
-
-# Description
->Welcome to the fun TO-DO LIST, here you can delete, add in and cross out your lists of projects for the day. 
 
 [Live Link](https://justinwhite814.github.io/todolist/)
 
