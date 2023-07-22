@@ -4,7 +4,7 @@
 
 ## Description
 
->Welcome to the Kindness Class. This is a demo website for a teacher. It contains class resources, helpful links for students, and calendars for parents. 
+> Welcome to the Kindness Class. This is a demo website for a teacher. It contains class resources, helpful links for students, and calendars for parents. 
 
 [Live Link](https://kindness-teacher-demo.herokuapp.com/)
 
