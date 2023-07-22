@@ -20,6 +20,21 @@
 - As a user I want to create a relationship between the Parents and Teachers
 - As a user I want to be able to find missing work from class
 
+## Screen shots
+#### Landing
+![Landing](./images/)
+
+#### Unit
+![Unit](./images/)
+
+#### Dojo
+![Dojo](./images/T)
+
+## Minimun Viable Product
+
+* Demo website to access classroom information
+* View calendars/unit schedules
+
 ## Technologies Used
 
 * JavaScript
@@ -27,22 +42,3 @@
 * jQuery
 * HTML
 * CSS
-
-
-[Live Link](https://justinwhite814.github.io/todolist/)
-
-## Installation Instructions
-* Fork this repository
-* Clone it down to your local machine
-* Open in a code editor
-* Use your code editor to go live or run a live server
-
-## Screen shots
-#### Main Todo
-![Main](./images/)
-
-#### New Todo:
-![New](./images/T)
-## Minimun Viable Product
-* Demo website to access classroom information
-* View calendars/unit schedules
